@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawyercharlton&label=Profile%20views&color=0e75b6&style=flat" alt="sawyercharlton" /> </p>
 
-- 👯 I am actively looking for a **Ph.D.** position related to Artificial Intelligence and Machine Learning in Canada for 2026.
+- 👯 I am actively looking for a **Ph.D.** position related to Computer Vision and Machine Learning in Canada for 2026.
 
 - 📫 How to reach me **yubo.huang@hotmail.com**
 
